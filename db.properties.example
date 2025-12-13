@@ -1,0 +1,13 @@
+## Example DB properties for DBMirror
+# Put a copy named `db.properties` in project root (not committed) to enable MySQL mirroring.
+# Supported keys:
+# db.url   - JDBC URL, e.g. jdbc:mysql://localhost:3306/flightdb?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
+# db.user  - DB username
+# db.pass  - DB password
+
+# Example:
+# db.url=jdbc:mysql://localhost:3306/flightdb?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
+# db.user=root
+# db.pass=secret
+
+# Alternatively you can set environment variables: DB_URL, DB_USER, DB_PASS

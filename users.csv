@@ -1,0 +1,6 @@
+id,email,fullName,passwordHash,role,disabled
+1,hpyoyo0122@gmail.com,georgia,$2a$10$E6vW.GWmPLuIS/8MWgKwBulziDsfsqbaic1ktNPOueScyXqkd5SBa,admin,0
+2,admin@admin.com,管理员,$2a$10$X2lFN5cQFLRJ3wKImQQ5VO2fxW.bcA/2DXFAFQ3VxlPgyarDSKnvu,admin,0
+3,Jennyli@user.com,Li,$2a$10$qvxcDduOmLNCvBZGpJQ7c.TVqo8PNqYfRy9nskEKIcN68N6QXy5OK,user,0
+4,user@user.com,user,$2a$10$4hPppal8dyPuMWnqgsnYFewPUS9l.Uy1igdKsTHjn5zQlRLwkpPSW,user,0
+5,admin1@admin.com,admin,$2a$10$KJKeDW1CgE0ZGSx.QQvgSOPiAz/Xme4/2wWbs8PCOi8VSRNJ2v6Hm,admin,0
